@@ -1,0 +1,195 @@
+{
+  "locations": [
+    {
+      "id": 0,
+      "name": "CORPORATE TAX UNDER 30 MINUTES: 15 Feb 2024",
+      "city": "Webinar",
+      "state": "Zoom",
+      "photo": "https://dhjj.com/wp-content/uploads/2022/05/corporate-taxes.png",
+      "availableUnits": 4,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": 1,
+      "name": "CONSUMER GOODS EXPO: 30 March 2023",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "photo": "https://www.conceptinabox.com/static/sitefiles/images/07e1e523-5e5c-4c4e-a4db-846e8673d6da.JPG",
+      "availableUnits": 0,
+      "wifi": false,
+      "laundry": true
+    },
+    {
+      "id": 2,
+      "name": "TRADING & INVESTING THE MILLENNIAL WAY: 4 April 2024",
+      "city": "Georgetown",
+      "state": "Penang",
+      "photo": "https://www.hashtaginvesting.com/wp-content/uploads/2022/08/alexandre-pellaes-6vAjp0pscX0-unsplash-Cropped-min-1-768x432.jpg",
+      "availableUnits": 1,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 3,
+      "name": "NAVIGATING THE FUTURE OF ALTERNATIVE LENDING: 5 April 2024",
+      "city": "Ipoh",
+      "state": "Perak",
+      "photo": "https://moba.finance/wp-content/uploads/2022/01/Artboard-4.png",
+      "availableUnits": 1,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": 4,
+      "name": "BUILDING A MULTI-SIX FIGURE BUSINESS: 15 April 2024",
+      "city": "Webinar",
+      "state": "Zoom",
+      "photo": "https://thevenueatfriendshipsprings.com/wp-content/uploads/2019/09/Corporate-Event-Ideas.jpg",
+      "availableUnits": 1,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": 5,
+      "name": "PROJECT MANAGEMENT: 1 May 2024",
+      "city": "Alor Setar",
+      "state": "Kedah",
+      "photo": "https://i.ytimg.com/vi/I-XjdcpfXoI/maxresdefault.jpg",
+      "availableUnits": 2,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": 6,
+      "name": "BUSINESS & ART INFUSION: 4 May 2024",
+      "city": "Teluk Intan",
+      "state": "Perak",
+      "photo": "https://th.bing.com/th/id/R.03f553dd43acdc2a957b920a3245bf43?rik=fFTJSNyo7gYT2Q&riu=http%3a%2f%2fcanadianart.ca%2fwp-content%2fuploads%2f2014%2f10%2fArt-Toronto-View.jpg&ehk=w%2fcY%2fKytaUBj97nFr5tSSFx%2bDa9b%2be0dfp9P%2fCXX0dU%3d&risl=&pid=ImgRaw&r=0",
+      "availableUnits": 5,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": 7,
+      "name": "INDUSTRIAL ENGINEERING & MACHINERY EXPO: 10 May 2024",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://th.bing.com/th/id/R.07e9eb733721088b93d65dc7393c78ac?rik=yjzioJl5tym5XQ&riu=http%3a%2f%2fwww.nuberghfd.com%2fimages%2fevent-big-11.jpg&ehk=51Bs4bfMyQyPFY%2bi%2bo11MXXeAfyDLyutVySD%2bN3sDuE%3d&risl=&pid=ImgRaw&r=0",
+      "availableUnits": 2,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": 8,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 9,
+      "name": "Capital Safe Towns",
+      "city": "Portland",
+      "state": "OR",
+      "photo": "https://angular.io/assets/images/tutorials/faa/webaliser-_TPTXZd9mOo-unsplash.jpg",
+      "availableUnits": 6,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": 10,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 11,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 12,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 13,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 14,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 15,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 16,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 17,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": 18,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false
+    }
+
+  ]
+}
